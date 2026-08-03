@@ -33,7 +33,7 @@ Based in **Mandaguaçu, Paraná, Brazil**, I hold a degree in **Systems Analysis
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| **Prazo Certo** — [Source Code](https://github.com/RodrigoBalestrim/prazo-certo-app) | Cross-platform app for tracking product expiration dates, receiving alerts, scanning barcodes, and generating PDF reports. | React Native, Expo, TypeScript, Supabase |
+| **Prazo Certo** — [Live Demo](https://prazo-certo.expo.app) · [Source Code](https://github.com/RodrigoBalestrim/prazo-certo-app) | Cross-platform app for tracking product expiration dates, receiving alerts, scanning barcodes, and generating PDF reports. | React Native, Expo, TypeScript, Supabase |
 | **3D Portfolio** — [Live Demo](https://portfolio-3d-eight-nu.vercel.app/) · [Source Code](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) | Interactive personal portfolio with responsive pages, animations, project showcases, and modern visual effects. | Next.js, React, Tailwind CSS, Framer Motion |
 | **HTML Resume** — [Live Demo](https://rodrigobalestrim.github.io/curriculo-html-rodrigo/) · [Source Code](https://github.com/RodrigoBalestrim/curriculo-html-rodrigo) | Responsive bilingual resume with portfolio cards, clickable contact links, and print-ready PDF styling. | HTML5, CSS3, JavaScript |
 
