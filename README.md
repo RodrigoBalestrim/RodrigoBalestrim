@@ -15,17 +15,17 @@ Building modern, responsive, and accessible web & mobile applications.
 
 ---
 
-## 👋 About Me
+## ��� About Me
 
 Front-End & Mobile Developer focused on **React, Next.js, React Native** and **TypeScript**. I build production-ready apps end-to-end — from UI and architecture to CI/CD and deployment.
 
-- 🔭 Currently shipping **Prazo Certo** — cross-platform inventory & expiry tracker (**2.3k+ users**, **4.7★**, offline-first)
-- 🚀 4 production apps delivered (2 mobile + 2 web), **Lighthouse 98/100**
-- 🧠 Growing in software architecture, testing (Jest / RTL / Playwright) and performance
-- 💼 Open to **junior front-end / mobile / full-stack** roles — remote or Maringá/PR
-- 🌎 English **B2** — technical docs & meetings
+- ��� Currently shipping **Prazo Certo** — cross-platform inventory & expiry tracker (**2.3k+ users**, **4.7★**, offline-first)
+- ��� 4 production apps delivered (2 mobile + 2 web), **Lighthouse 98/100**
+- ��� Growing in software architecture, testing (Jest / RTL / Playwright) and performance
+- ��� Open to **junior front-end / mobile / full-stack** roles — remote or Maringá/PR
+- ��� English **B2** — technical docs & meetings
 
-## 🛠️ Tech Stack
+## ������ Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -44,7 +44,7 @@ Front-End & Mobile Developer focused on **React, Next.js, React Native** and **T
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 📌 Featured Projects
+## ��� Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -52,14 +52,14 @@ Front-End & Mobile Developer focused on **React, Next.js, React Native** and **T
 | [**3D Portfolio**](https://portfolio-3d-eight-nu.vercel.app/) — [source](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) | Interactive developer portfolio. **Lighthouse 98/100**, 60fps animations, mobile-first, WCAG AA. | Next.js, React, Tailwind, Framer Motion |
 | [**HTML Resume**](https://rodrigobalestrim.github.io/curriculo-html-rodrigo/) — [source](https://github.com/RodrigoBalestrim/curriculo-html-rodrigo) | Bilingual resume, **12KB gzipped**, print-ready PDF via Print CSS, zero dependencies. | HTML5, CSS3, JavaScript |
 
-## 📊 GitHub Stats
+## ��� GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBalestrim&layout=compact&theme=dark&hide_border=true)](https://github.com/RodrigoBalestrim)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBalestrim&layout=compact&theme=dark&hide_border=true)
 
-## 📫 Let's Connect
+## ��� Let's Connect
 
-- 💼 Portfolio: [portfolio-3d-eight-nu.vercel.app](https://portfolio-3d-eight-nu.vercel.app/)
-- 💬 LinkedIn: [Rodrigo Balestrim](https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212/)
-- ✉️ Email: [wbalestrim1@gmail.com](mailto:wbalestrim1@gmail.com)
+- ��� Portfolio: [portfolio-3d-eight-nu.vercel.app](https://portfolio-3d-eight-nu.vercel.app/)
+- ��� LinkedIn: [Rodrigo Balestrim](https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212/)
+- ����� Email: [wbalestrim1@gmail.com](mailto:wbalestrim1@gmail.com)
 
-> 📩 Available for junior front-end, mobile, and full-stack opportunities.
+> ��� Available for junior front-end, mobile, and full-stack opportunities.
