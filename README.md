@@ -48,7 +48,7 @@ Front-End & Mobile Developer focused on **React, Next.js, React Native** and **T
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Prazo Certo**](https://prazo-certo.expo.app) — [source](https://github.com/RodrigoBalestrim/prazo-certo-app) | Cross-platform inventory & expiry app. **2.3k+ users**, **4.7★**, offline-first sync, barcode scanning, PDF reports, push notifications. | React Native, Expo, TypeScript, Supabase |
+| [**Prazo Certo**](https://rodrigobalestrim.github.io/prazo-certo-app/) — [source](https://github.com/RodrigoBalestrim/prazo-certo-app) | Cross-platform inventory & expiry app. **2.3k+ users**, **4.7★**, offline-first sync, barcode scanning, PDF reports, push notifications. | React Native, Expo, TypeScript, Supabase |
 | [**3D Portfolio**](https://portfolio-3d-eight-nu.vercel.app/) — [source](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) | Interactive developer portfolio. **Lighthouse 98/100**, 60fps animations, mobile-first, WCAG AA. | Next.js, React, Tailwind, Framer Motion |
 | [**HTML Resume**](https://rodrigobalestrim.github.io/curriculo-html-rodrigo/) — [source](https://github.com/RodrigoBalestrim/curriculo-html-rodrigo) | Bilingual resume, **12KB gzipped**, print-ready PDF via Print CSS, zero dependencies. | HTML5, CSS3, JavaScript |
 
