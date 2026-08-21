@@ -15,10 +15,15 @@ Building modern, responsive, and accessible web & mobile applications.
 
 ---
 
-## 📧 Let's Connect
+## Contato
 
-- $link Portfolio: [portfolio-3d-eight-nu.vercel.app](https://portfolio-3d-eight-nu.vercel.app/)
-- $link LinkedIn: [Rodrigo Balestrim](https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212/)
-- $mail Email: [wbalestrim1@gmail.com](mailto:wbalestrim1@gmail.com)
+<div align="center">
 
-> ⭐ Available for junior front-end, mobile, and full-stack opportunities.
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544997075042)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wbalestrim1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3d-eight-nu.vercel.app/)
+
+</div>
+
+> Disponível para oportunidades em Front-end, Mobile e Full Stack.
