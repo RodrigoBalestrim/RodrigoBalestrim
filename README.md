@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111c44,75:7c3aed,100:06b6d4&height=220&section=header&text=PORTFOLIO&fontSize=48&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=FRONT-END%20%7C%20MOBILE%20%7C%20TYPESCRIPT&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%" />
 
 # Rodrigo Washington Balestrim
 
