@@ -8,7 +8,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Construindo+interfaces+que+chamam+atenção.;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript;Do+protótipo+ao+deploy.;Código%2C+produto+e+experiência." alt="Animação de texto" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Construindo%20interfaces%20que%20chamam%20atencao%21;React%20%7C%20Next.js%20%7C%20React%20Native%20%7C%20TypeScript;Do%20prototipo%20ao%20deploy%21;Codigo%2C%20produto%20e%20experiencia." alt="Animação de texto" />
 
 <br />
 
