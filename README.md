@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:7c3aed&height=180&section=header&text=Rodrigo%20Balestrim&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" />
-
 <h1>Rodrigo Washington Balestrim</h1>
 <p><strong>Desenvolvedor Front-End Júnior</strong></p>
 <p>React · Next.js · React Native · TypeScript</p>
@@ -67,7 +65,5 @@ Portfólio responsivo com experiências visuais em 3D.
 🇧🇷 Português: nativo · 🇺🇸 Inglês: técnico · 🇪🇸 Espanhol: básico
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:111827&height=90&section=footer" width="100%" />
 
 </div>
