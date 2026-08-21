@@ -28,7 +28,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 | <img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> Next.js | <img src="https://skillicons.dev/icons?i=expo" width="18" alt="Expo" /> Expo | <img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /> Firebase | <img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /> GitHub |
 | <img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript" /> TypeScript | <img src="https://skillicons.dev/icons?i=expo-router" width="18" alt="Expo Router" /> Expo Router | PostgreSQL | GitHub Actions |
 | <img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript" /> JavaScript | AsyncStorage | <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js" /> Node.js | <img src="https://skillicons.dev/icons?i=vercel" width="18" alt="Vercel" /> Vercel |
-| <img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML" /> HTML · <img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS" /> CSS | Push Notifications | APIs REST | Tailwind CSS |
+| <img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML" /> HTML · <img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS" /> CSS | Push Notifications | APIs REST | <img src="https://skillicons.dev/icons?i=tailwind" width="18" alt="Tailwind CSS" /> Tailwind CSS |
 ## Projetos
 
 <div align="center">
