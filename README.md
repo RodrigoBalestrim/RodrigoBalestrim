@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 Rodrigo Washington Balestrim</h1>
+<h1 align="center">Rodrigo Washington Balestrim</h1>
 
 ### Desenvolvedor Front-End Júnior
 
