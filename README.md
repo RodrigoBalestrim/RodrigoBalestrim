@@ -22,7 +22,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 
 ## Tecnologias
 
-| Front-end | Mobile | Back-end e dados | Ferramentas |
+| 🎨 Front-end | 📱 Mobile | 🗄️ Back-end | 🛠️ Ferramentas |
 |---|---|---|---|
 | React | React Native | Supabase | Git |
 | Next.js | Expo | Firebase | GitHub |
