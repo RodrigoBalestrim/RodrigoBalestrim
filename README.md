@@ -14,6 +14,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animação de texto" />
+</div>
+
+
 ## ✦ Sobre mim
 
 Desenvolvedor Front-End com experiência prática na construção de aplicações web e mobile completas, do design à publicação. Trabalho com **React, Next.js, TypeScript, React Native, Expo, Supabase e Firebase**.
