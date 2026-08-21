@@ -43,7 +43,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript" /><br />TypeScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=expo-router" width="18" alt="Expo Router" /><br />Expo Router</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo%20Router-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo Router" /><br />Expo Router</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" /><br />PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="18" alt="GitHub Actions" /><br />GitHub Actions</td>
   </tr>
