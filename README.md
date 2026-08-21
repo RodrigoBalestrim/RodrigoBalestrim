@@ -1,25 +1,23 @@
 <div align="center">
 
-
 # Rodrigo Washington Balestrim
 
-## Desenvolvedor Front-End Júnior
+### Desenvolvedor Front-End Júnior
+
+React · Next.js · React Native · TypeScript
 
 <a href="https://wa.me/5544997075042"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
 
+<br />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animação de texto" />
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animação de texto" />
-</div>
-
-
-## ✦ Sobre mim
+## Sobre mim
 
 Desenvolvedor Front-End com experiência prática na construção de aplicações web e mobile completas, do design à publicação. Trabalho com **React, Next.js, TypeScript, React Native, Expo, Supabase e Firebase**.
 
@@ -27,27 +25,27 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 > Mandaguaçu, Paraná, Brasil · Remoto, presencial ou híbrido
 
-## ⚡ Stack técnica
+## Stack técnica
 
 <div align="center">
 
-| Front-end | Mobile | Backend e dados | Qualidade e entrega |
+| Front-end | Mobile | Back-end e dados | Qualidade e entrega |
 |---|---|---|---|
-| ⚛️ React · ▲ Next.js | 📱 React Native · Expo | 🟩 Supabase · Firebase | 🦊 Git · GitHub |
-| 🔷 TypeScript · JavaScript | 🧭 Expo Router | 🐘 PostgreSQL · Node.js | ⚙️ GitHub Actions · CI/CD |
-| 🌐 HTML5 · CSS3 | 📦 AsyncStorage | 🔗 APIs REST · Firestore | ▲ Vercel · Jest |
-| 🎨 Tailwind CSS · Three.js | 🔔 Push Notifications | 🔐 RLS · Auth | 🧪 Playwright · ESLint |
+| React · Next.js | React Native · Expo | Supabase · Firebase | Git · GitHub |
+| TypeScript · JavaScript | Expo Router | PostgreSQL · Node.js | GitHub Actions · CI/CD |
+| HTML5 · CSS3 | AsyncStorage | APIs REST · Firestore | Vercel · Jest |
+| Tailwind CSS · Three.js | Push Notifications | RLS · Auth | Playwright · ESLint |
 
 </div>
 
 **Segurança:** autenticação · autorização · Row Level Security · regras owner-only · validação server-side  
 **IA:** Gemini · OpenAI · Claude · engenharia de prompts
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 <div align="center">
 
-### 📦 PRAZO CERTO
+### Prazo Certo
 
 **Aplicativo Android e Web para gerenciamento da validade de produtos.**
 
@@ -57,7 +55,7 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 ---
 
-### ⚡ VAGAS CV
+### Vagas CV
 
 **Buscador de vagas e gerador de currículo ATS com score personalizado.**
 
@@ -67,7 +65,7 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 ---
 
-### 🌌 PORTFÓLIO 3D
+### Portfólio 3D Interativo
 
 **Portfólio responsivo com experiências visuais em 3D.**
 
@@ -77,7 +75,7 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 </div>
 
-## 🎓 Formação
+## Formação
 
 <div align="center">
 
@@ -87,25 +85,18 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 </div>
 
-## 🌎 Idiomas
+## Idiomas
 
 <div align="center">
 
-🇧🇷 Português: nativo · 🇺🇸 Inglês: técnico · 🇪🇸 Espanhol: básico
+Português: nativo · Inglês: técnico · Espanhol: básico
 
 </div>
 
-## 📬 Contato
+## Contato
 
 <div align="center">
 
-<a href="https://wa.me/5544997075042"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+Aberto a oportunidades em Front-end, Mobile e Full Stack.
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:7c3aed,100:050816&height=100&section=footer" width="100%" />
 </div>
