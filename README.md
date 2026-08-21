@@ -15,19 +15,16 @@
 </div>
 
 <div align="center">
-<pre>
-+--------------------------------------------------------------+
-|                                                              |
-|                 STATUS : ONLINE                             |
-|          USUARIO : RODRIGO BALESTRIM                       |
-|              CARGO : FRONT-END JUNIOR                       |
-|       FOCO : REACT - NEXT.JS - TYPESCRIPT                   |
-|           LOCAL : MANDAGUACU - PR - BRASIL                  |
-|                                                              |
-|          DISPONIVEL PARA OPORTUNIDADES                       |
-|                                                              |
-+--------------------------------------------------------------+
-</pre>
+
+### ● ONLINE
+
+**Rodrigo Washington Balestrim**  
+Desenvolvedor Front-End Júnior  
+React · Next.js · React Native · TypeScript  
+Mandaguaçu · Paraná · Brasil  
+
+**Aberto a oportunidades**
+
 </div>
 
 ## [ START ] Sobre mim
