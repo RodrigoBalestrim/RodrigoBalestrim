@@ -22,7 +22,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 
 ## Tecnologias
 
-| 🎨 Front-end | 📱 Mobile | 🗄️ Back-end | 🛠️ Ferramentas |
+| <img src="https://raw.githubusercontent.com/RodrigoBalestrim/RodrigoBalestrim/main/assets/front-end.png" width="18" alt="Front-end" /> Front-end | 📱 Mobile | 🗄️ Back-end | 🛠️ Ferramentas |
 |---|---|---|---|
 | <img src="https://skillicons.dev/icons?i=react" width="18" alt="React" /> React | <img src="https://skillicons.dev/icons?i=react" width="18" alt="React Native" /> React Native | <img src="https://skillicons.dev/icons?i=supabase" width="18" alt="Supabase" /> Supabase | <img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /> Git |
 | <img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> Next.js | <img src="https://skillicons.dev/icons?i=expo" width="18" alt="Expo" /> Expo | <img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /> Firebase | <img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /> GitHub |
