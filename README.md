@@ -11,9 +11,7 @@
 <a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
 
-<br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&height=60&lines=Construindo+interfaces+que+chamam+atenção;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript;Do+protótipo+ao+deploy;Código+%7C+produto+%7C+experiência" alt="Animação de texto" />
 
 </div>
 
