@@ -66,6 +66,8 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 </div>
 ## Projetos
 
+<div align="center">
+
 ### Prazo Certo
 
 Aplicativo Android e Web para gerenciamento da validade de produtos.
@@ -73,6 +75,8 @@ Aplicativo Android e Web para gerenciamento da validade de produtos.
 `React Native` `Expo` `Supabase` `PostgreSQL` `Gemini`
 
 [Repositório](https://github.com/RodrigoBalestrim/prazo-certo-app) · [Vercel](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
+
+---
 
 ### Vagas CV
 
@@ -82,6 +86,8 @@ Buscador de vagas e gerador de currículo ATS com score personalizado.
 
 [Produção](https://vagas-cv.vercel.app) · [Repositório](https://github.com/RodrigoBalestrim/vagas-cv)
 
+---
+
 ### Portfólio 3D
 
 Portfólio responsivo com experiências visuais em 3D.
@@ -90,20 +96,22 @@ Portfólio responsivo com experiências visuais em 3D.
 
 [Ver projeto](https://portfolio-3d-eight-nu.vercel.app) · [Repositório](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim)
 
+</div>
+
 ## Formação
-
-- Análise de Dados e Desenvolvimento — UniCesumar
-- Desenvolvimento Full Stack — Programador BR
-- HTML e CSS — Curso em Vídeo
-
-## Idiomas
-
-- Português: nativo
-- Inglês: técnico, com leitura de documentação
-- Espanhol: básico
 
 <div align="center">
 
-[WhatsApp](https://wa.me/5544997075042) · [E-mail](mailto:wbalestrim1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212) · [Portfólio](https://portfolio-3d-eight-nu.vercel.app)
+Análise de Dados e Desenvolvimento — UniCesumar  
+Desenvolvimento Full Stack — Programador BR  
+HTML e CSS — Curso em Vídeo
+
+</div>
+
+## Idiomas
+
+<div align="center">
+
+Português: nativo · Inglês: técnico, com leitura de documentação · Espanhol: básico
 
 </div>
