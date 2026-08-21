@@ -36,7 +36,9 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 ## Projetos
 
-### <img src="https://raw.githubusercontent.com/RodrigoBalestrim/prazo-certo-app/master/assets/prazo-certo-logo.svg" width="22" height="22" alt="Logo Prazo Certo" /> Prazo Certo
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/RodrigoBalestrim/prazo-certo-app/master/assets/prazo-certo-logo.svg" width="22" height="22" alt="Logo Prazo Certo" /> Prazo Certo</h3>
+</div>
 
 Aplicativo Android e Web para gerenciamento da validade de produtos.
 
