@@ -37,7 +37,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /><br />Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=expo" width="18" alt="Expo" /><br />Expo</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo" /><br />Expo</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /><br />Firebase</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /><br />GitHub</td>
   </tr>
