@@ -22,12 +22,44 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 ## Tecnologias
 
-| Front-end | Mobile | Back-end | Ferramentas |
-|---|---|---|---|
-| React · Next.js | React Native · Expo | Supabase · Firebase | Git · GitHub |
-| TypeScript · JavaScript | Expo Router | PostgreSQL · Node.js | GitHub Actions · Vercel |
-| HTML · CSS | AsyncStorage | APIs REST | Tailwind CSS |
-
+<table>
+  <tr>
+    <th align="center">🎨 Front-end</th>
+    <th align="center">📱 Mobile</th>
+    <th align="center">🗄️ Back-end</th>
+    <th align="center">🛠️ Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="20" alt="React" /><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="20" alt="React Native" /><br />React Native</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="20" alt="Supabase" /><br />Supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="20" alt="Git" /><br />Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="20" alt="Next.js" /><br />Next.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo" /><br />Expo</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="20" alt="Firebase" /><br />Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="20" alt="GitHub" /><br />GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="20" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo%20Router-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo Router" /><br />Expo Router</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="20" alt="PostgreSQL" /><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="20" alt="GitHub Actions" /><br />GitHub Actions</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="20" alt="JavaScript" /><br />JavaScript</td>
+    <td align="center">📦<br />AsyncStorage</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="20" alt="Node.js" /><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="20" alt="Vercel" /><br />Vercel</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="20" alt="HTML" /><br />HTML<br /><img src="https://skillicons.dev/icons?i=css" width="20" alt="CSS" /><br />CSS</td>
+    <td align="center">🔔<br />Push Notifications</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="20" alt="APIs REST" /><br />APIs REST</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="20" alt="Tailwind CSS" /><br />Tailwind CSS</td>
+  </tr>
+</table>
 ## Projetos
 
 ### Prazo Certo
