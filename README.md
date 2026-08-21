@@ -38,16 +38,6 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Rea
 
 ## Projetos em destaque
 
-### ⚡ Vagas CV
-
-> Currículo ATS com IA e buscador personalizado de vagas.
-
-Plataforma que busca e ranqueia vagas, extrai palavras-chave e gera currículos compatíveis com ATS em HTML e PDF. Possui autenticação multiusuário, Firestore com isolamento por usuário, importação de PDF/DOCX/TXT e deploy contínuo.
-
-`Next.js` `TypeScript` `Firebase` `Firestore` `ATS` `Vercel`
-
-[🌍 Produção](https://vagas-cv.vercel.app) · [📦 Repositório](https://github.com/RodrigoBalestrim/vagas-cv)
-
 ### 📦 Prazo Certo
 
 > Gerenciamento de validade de produtos para Android e Web.
@@ -57,6 +47,17 @@ Aplicativo multiplataforma com permissões por função, Supabase/PostgreSQL, IA
 `React Native` `Expo` `Supabase` `PostgreSQL` `Gemini` `GitHub Actions`
 
 [📦 Repositório](https://github.com/RodrigoBalestrim/prazo-certo-app) · [▲ Vercel](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
+
+
+### ⚡ Vagas CV
+
+> Currículo ATS com IA e buscador personalizado de vagas.
+
+Plataforma que busca e ranqueia vagas, extrai palavras-chave e gera currículos compatíveis com ATS em HTML e PDF. Possui autenticação multiusuário, Firestore com isolamento por usuário, importação de PDF/DOCX/TXT e deploy contínuo.
+
+`Next.js` `TypeScript` `Firebase` `Firestore` `ATS` `Vercel`
+
+[🌍 Produção](https://vagas-cv.vercel.app) · [📦 Repositório](https://github.com/RodrigoBalestrim/vagas-cv)
 
 ### 🌌 Portfólio 3D Interativo
 
