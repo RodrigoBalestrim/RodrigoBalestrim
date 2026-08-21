@@ -82,7 +82,7 @@ Desenvolvido com Next.js, React, Three.js, React Three Fiber, Tailwind CSS, Fram
 
 <div align="center">
   <p><strong>Aberto a oportunidades em desenvolvimento Front-end, React, Next.js, React Native e TypeScript.</strong></p>
-  <a href="mailto:wbalestrim1@gmail.com">📧 E-mail</a> ·
+  <a href="https://wa.me/5544997075042?text=Ol%C3%A1%20Rodrigo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar.">💬 WhatsApp</a> ·`n  <a href="mailto:wbalestrim1@gmail.com">📧 E-mail</a> ·
   <a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212">💼 LinkedIn</a> ·
   <a href="https://portfolio-3d-eight-nu.vercel.app">🎨 Portfólio</a> ·
   <a href="https://github.com/RodrigoBalestrim">🐙 GitHub</a>
