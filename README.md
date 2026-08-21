@@ -1,77 +1,109 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111c44,75:7c3aed,100:06b6d4&height=220&section=header&text=RODRIGO%20BALESTRIM&fontSize=48&fontColor=67e8f9&animation=fadeIn&fontAlignY=38&desc=FRONT-END%20%7C%20MOBILE%20%7C%20TYPESCRIPT&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%" />
+
 # Rodrigo Washington Balestrim
 
-## Desenvolvedor Front-End Júnior | React | Next.js | React Native | TypeScript
+## Desenvolvedor Front-End Júnior
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animação de texto" />
+<a href="https://wa.me/5544997075042"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&height=60&lines=Construindo+interfaces+que+chamam+atenção;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript;Do+protótipo+ao+deploy;Código+%7C+produto+%7C+experiência" alt="Animação de texto" />
+
 </div>
 
+## ✦ Sobre mim
 
-Desenvolvedor Front-End com experiência prática na construção de aplicações web e mobile completas, do design ao deploy. Trabalho com React, Next.js, TypeScript, React Native, Expo, Supabase e Firebase.
+Desenvolvedor Front-End com experiência prática na construção de aplicações web e mobile completas, do design à publicação. Trabalho com **React, Next.js, TypeScript, React Native, Expo, Supabase e Firebase**.
 
-Busco oportunidade como Desenvolvedor Front-End Júnior, Desenvolvedor React, Desenvolvedor Next.js ou Desenvolvedor Mobile React Native.
+Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor React**, **Desenvolvedor Next.js** ou **Desenvolvedor Mobile com React Native**.
 
-- Localização: Mandaguaçu, Paraná, Brasil
-- Disponibilidade: remoto, presencial ou híbrido
-- E-mail: wbalestrim1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212
-- Portfólio: https://portfolio-3d-eight-nu.vercel.app
+> Mandaguaçu, Paraná, Brasil · Remoto, presencial ou híbrido
 
-## Stack técnica
+## ⚡ Stack técnica
 
 <div align="center">
 
 | Front-end | Mobile | Backend e dados | Qualidade e entrega |
 |---|---|---|---|
-| React · Next.js | React Native · Expo | Supabase · Firebase | Git · GitHub |
-| TypeScript · JavaScript | Expo Router | PostgreSQL · Node.js | GitHub Actions · CI/CD |
-| HTML5 · CSS3 | AsyncStorage | APIs REST · Firestore | Vercel · Jest |
-| Tailwind CSS · Three.js | Push Notifications | Firebase Admin SDK | Playwright · ESLint |
+| ⚛️ React · ▲ Next.js | 📱 React Native · Expo | 🟩 Supabase · Firebase | 🦊 Git · GitHub |
+| 🔷 TypeScript · JavaScript | 🧭 Expo Router | 🐘 PostgreSQL · Node.js | ⚙️ GitHub Actions · CI/CD |
+| 🌐 HTML5 · CSS3 | 📦 AsyncStorage | 🔗 APIs REST · Firestore | ▲ Vercel · Jest |
+| 🎨 Tailwind CSS · Three.js | 🔔 Push Notifications | 🔐 RLS · Auth | 🧪 Playwright · ESLint |
 
 </div>
 
 **Segurança:** autenticação · autorização · Row Level Security · regras owner-only · validação server-side  
 **IA:** Gemini · OpenAI · Claude · engenharia de prompts
 
-## Projetos
+## 🚀 Projetos em destaque
 
 <div align="center">
 
-### Vagas CV — Currículo ATS com IA
+### 📦 PRAZO CERTO
 
-Plataforma web que busca e ranqueia vagas, extrai keywords e gera currículos ATS em HTML e PDF. Inclui autenticação multiusuário, Firestore com isolamento por usuário, importação de PDF/DOCX/TXT e deploy contínuo na Vercel.
+**Aplicativo Android e Web para gerenciamento da validade de produtos.**
 
-[Repositório](https://github.com/RodrigoBalestrim/vagas-cv) · [Produção](https://vagas-cv.vercel.app)
+`React Native` `Expo` `Supabase` `PostgreSQL` `Gemini` `CI/CD`
 
----
-
-### Prazo Certo
-
-Aplicativo Android e Web para gerenciamento de validade de produtos, com React Native, Expo, Supabase/PostgreSQL, permissões por papel, IA generativa, notificações push, suporte offline e CI/CD para APK.
-
-[Repositório](https://github.com/RodrigoBalestrim/prazo-certo-app) · [Vercel](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
+[![Repositório](https://img.shields.io/badge/VER%20REPOSITÓRIO-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoBalestrim/prazo-certo-app) [![Vercel](https://img.shields.io/badge/ABRIR%20VERCEL-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
 
 ---
 
-### Portfólio 3D Interativo
+### ⚡ VAGAS CV
 
-Portfólio responsivo desenvolvido com Next.js, React, Three.js, React Three Fiber, Tailwind CSS, Framer Motion e Swiper.
+**Buscador de vagas e gerador de currículo ATS com score personalizado.**
 
-[Repositório](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) · [Vercel](https://vercel.com/rodrigo-balestrim/portfolio-rodrigo-balestrim)
+`Next.js` `TypeScript` `Firebase` `Firestore` `ATS` `IA`
+
+[![Produção](https://img.shields.io/badge/ABRIR%20PRODUÇÃO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://vagas-cv.vercel.app) [![Código](https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoBalestrim/vagas-cv)
+
+---
+
+### 🌌 PORTFÓLIO 3D
+
+**Portfólio responsivo com experiências visuais em 3D.**
+
+`Next.js` `React` `Three.js` `React Three Fiber` `Tailwind CSS`
+
+[![Ver projeto](https://img.shields.io/badge/VER%20PORTFÓLIO-EC4899?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3d-eight-nu.vercel.app) [![Código](https://img.shields.io/badge/VER%20CÓDIGO-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim)
 
 </div>
-## Formação
 
-- Análise de Dados e Desenvolvimento — UniCesumar
-- Desenvolvimento Full Stack — Programador BR
-- HTML/CSS — Curso em Vídeo
+## 🎓 Formação
 
-## Idiomas
+<div align="center">
 
-- Português: nativo
-- Inglês: técnico, leitura de documentação
-- Espanhol: básico
+**Análise de Dados e Desenvolvimento** · UniCesumar  
+**Desenvolvimento Full Stack** · Programador BR  
+**HTML e CSS** · Curso em Vídeo
 
-## Contato
+</div>
 
-Aberto a oportunidades júnior em desenvolvimento Front-End, React, Next.js, React Native e TypeScript.
+## 🌎 Idiomas
+
+<div align="center">
+
+🇧🇷 Português: nativo · 🇺🇸 Inglês: técnico · 🇪🇸 Espanhol: básico
+
+</div>
+
+## 📬 Contato
+
+<div align="center">
+
+<a href="https://wa.me/5544997075042"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/Portfólio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:7c3aed,100:050816&height=100&section=footer" width="100%" />
+</div>
