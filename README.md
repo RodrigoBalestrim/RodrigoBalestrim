@@ -82,12 +82,7 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 ## Idiomas
 
-<div align="center">
-
-Português: nativo · Inglês: técnico · Espanhol: básico
-
-</div>
-
+<h3 align="center">Português: nativo · Inglês: técnico · Espanhol: básico</h3>
 ## Contato
 
 <div align="center">
