@@ -68,33 +68,24 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 <div align="center">
 
-### Prazo Certo
+<h2>Prazo Certo</h2>
+<p><strong>Aplicativo Android e Web para gerenciamento da validade de produtos.</strong></p>
+<p><code>React Native</code> &nbsp; <code>Expo</code> &nbsp; <code>Supabase</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Gemini</code></p>
+<p><a href="https://github.com/RodrigoBalestrim/prazo-certo-app">Repositório</a> &nbsp;·&nbsp; <a href="https://vercel.com/rodrigo-balestrim/prazo-certo-app">Vercel</a></p>
 
-Aplicativo Android e Web para gerenciamento da validade de produtos.
+<hr />
 
-`React Native` `Expo` `Supabase` `PostgreSQL` `Gemini`
+<h2>Vagas CV</h2>
+<p><strong>Buscador de vagas e gerador de currículo ATS com score personalizado.</strong></p>
+<p><code>Next.js</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Firebase</code> &nbsp; <code>Firestore</code> &nbsp; <code>ATS</code></p>
+<p><a href="https://vagas-cv.vercel.app">Produção</a> &nbsp;·&nbsp; <a href="https://github.com/RodrigoBalestrim/vagas-cv">Repositório</a></p>
 
-[Repositório](https://github.com/RodrigoBalestrim/prazo-certo-app) · [Vercel](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
+<hr />
 
----
-
-### Vagas CV
-
-Buscador de vagas e gerador de currículo ATS com score personalizado.
-
-`Next.js` `TypeScript` `Firebase` `Firestore` `ATS`
-
-[Produção](https://vagas-cv.vercel.app) · [Repositório](https://github.com/RodrigoBalestrim/vagas-cv)
-
----
-
-### Portfólio 3D
-
-Portfólio responsivo com experiências visuais em 3D.
-
-`Next.js` `React` `Three.js` `React Three Fiber` `Tailwind CSS`
-
-[Ver projeto](https://portfolio-3d-eight-nu.vercel.app) · [Repositório](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim)
+<h2>Portfólio 3D</h2>
+<p><strong>Portfólio responsivo com experiências visuais em 3D.</strong></p>
+<p><code>Next.js</code> &nbsp; <code>React</code> &nbsp; <code>Three.js</code> &nbsp; <code>React Three Fiber</code> &nbsp; <code>Tailwind CSS</code></p>
+<p><a href="https://portfolio-3d-eight-nu.vercel.app">Ver projeto</a> &nbsp;·&nbsp; <a href="https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim">Repositório</a></p>
 
 </div>
 
@@ -102,9 +93,9 @@ Portfólio responsivo com experiências visuais em 3D.
 
 <div align="center">
 
-Análise de Dados e Desenvolvimento — UniCesumar  
-Desenvolvimento Full Stack — Programador BR  
-HTML e CSS — Curso em Vídeo
+<p><strong>Análise de Dados e Desenvolvimento — UniCesumar</strong></p>
+<p><strong>Desenvolvimento Full Stack — Programador BR</strong></p>
+<p><strong>HTML e CSS — Curso em Vídeo</strong></p>
 
 </div>
 
@@ -112,10 +103,9 @@ HTML e CSS — Curso em Vídeo
 
 <div align="center">
 
-Português: nativo · Inglês: técnico, com leitura de documentação · Espanhol: básico
+<h3>Português: nativo &nbsp;·&nbsp; Inglês: técnico &nbsp;·&nbsp; Espanhol: básico</h3>
 
 </div>
-
 ## Contato
 
 <div align="center">
