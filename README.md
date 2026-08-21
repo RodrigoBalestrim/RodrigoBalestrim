@@ -26,10 +26,10 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 
 <table>
   <tr>
-    <th align="center">🎨 Front-end</th>
-    <th align="center">📱 Mobile</th>
-    <th align="center">🗄️ Back-end</th>
-    <th align="center">🛠️ Ferramentas</th>
+    <th align="center">Front-end</th>
+    <th align="center">Mobile</th>
+    <th align="center">Back-end</th>
+    <th align="center">Ferramentas</th>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="28" alt="React" /><br /><strong>React</strong></td>
