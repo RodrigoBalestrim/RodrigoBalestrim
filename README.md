@@ -66,6 +66,21 @@ Portfólio responsivo com experiências visuais em 3D.
 
 [🌍 Ver projeto](https://portfolio-3d-eight-nu.vercel.app) · [📦 Repositório](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim)
 
+## 🎮 Demonstrações
+
+<div align="center">
+
+<a href="https://vagas-cv.vercel.app"><img src="https://img.shields.io/badge/⚡%20Vagas%20CV-Visitar%20produção-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar Vagas CV" /></a>
+<a href="https://vercel.com/rodrigo-balestrim/prazo-certo-app"><img src="https://img.shields.io/badge/📦%20Prazo%20Certo-Ver%20na%20Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Prazo Certo na Vercel" /></a>
+<a href="https://portfolio-3d-eight-nu.vercel.app"><img src="https://img.shields.io/badge/🌌%20Portfólio%203D-Visitar%20projeto-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visitar Portfólio 3D" /></a>
+
+</div>
+
+| Projeto | O que demonstra | Tecnologias |
+|---|---|---|
+| [Prazo Certo](https://github.com/RodrigoBalestrim/prazo-certo-app) | Aplicativo Android/Web, permissões, IA e modo offline | React Native · Expo · Supabase |
+| [Vagas CV](https://github.com/RodrigoBalestrim/vagas-cv) | Busca de vagas, score personalizado e currículo ATS | Next.js · TypeScript · Firebase |
+| [Portfólio 3D](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) | Interface responsiva e experiências 3D | React · Three.js · Tailwind CSS |
 ## 🎓 Formação
 
 - Análise de Dados e Desenvolvimento — UniCesumar
