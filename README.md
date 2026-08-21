@@ -10,7 +10,7 @@ React · Next.js · React Native · TypeScript
 <a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wbalestrim1@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=45&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animacao de texto" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=900&height=60&lines=Construindo+interfaces+modernas;React+%7C+Next.js+%7C+React+Native;Do+prototipo+ao+deploy" alt="Animacao de texto" />
 
 </div>
 
