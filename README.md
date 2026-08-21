@@ -30,34 +30,34 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
     <th align="center">🛠️ Ferramentas</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="18" alt="React" /><br />React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="18" alt="React Native" /><br />React Native</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="18" alt="Supabase" /><br />Supabase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /><br />Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="24" alt="React" /><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="24" alt="React Native" /><br />React Native</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="24" alt="Supabase" /><br />Supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="24" alt="Git" /><br />Git</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /><br />Next.js</td>
-    <td align="center"><img src="https://img.shields.io/badge/Expo-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo" /><br />Expo</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /><br />Firebase</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /><br />GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="24" alt="Next.js" /><br />Next.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo-4630EB?style=flat-square&logo=expo&logoColor=white" height="24" alt="Expo" /><br />Expo</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="24" alt="Firebase" /><br />Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="24" alt="GitHub" /><br />GitHub</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript" /><br />TypeScript</td>
-    <td align="center"><img src="https://img.shields.io/badge/Expo%20Router-4630EB?style=flat-square&logo=expo&logoColor=white" height="20" alt="Expo Router" /><br />Expo Router</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" /><br />PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="18" alt="GitHub Actions" /><br />GitHub Actions</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="24" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/Expo%20Router-4630EB?style=flat-square&logo=expo&logoColor=white" height="24" alt="Expo Router" /><br />Expo Router</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="24" alt="PostgreSQL" /><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="24" alt="GitHub Actions" /><br />GitHub Actions</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript" /><br />JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="24" alt="JavaScript" /><br />JavaScript</td>
     <td align="center">📦<br />AsyncStorage</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js" /><br />Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="18" alt="Vercel" /><br />Vercel</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="24" alt="Node.js" /><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="24" alt="Vercel" /><br />Vercel</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML" /><br />HTML<br /><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS" /><br />CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="24" alt="HTML" /><br />HTML<br /><img src="https://skillicons.dev/icons?i=css" width="24" alt="CSS" /><br />CSS</td>
     <td align="center">🔔<br />Push Notifications</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="18" alt="APIs REST" /><br />APIs REST</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="18" alt="Tailwind CSS" /><br />Tailwind CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="24" alt="APIs REST" /><br />APIs REST</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="24" alt="Tailwind CSS" /><br />Tailwind CSS</td>
   </tr>
 </table>
 ## Projetos
@@ -71,12 +71,12 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 
 <h3>⚡ Vagas CV</h3>
 <p>Buscador de vagas e gerador de curriculo ATS com score personalizado.</p>
-<p><img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>Firestore</code> <code>ATS</code></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs" width="24" alt="Next.js" /> <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code> <code>Firestore</code> <code>ATS</code></p>
 <p><a href="https://vagas-cv.vercel.app">Producao</a> · <a href="https://github.com/RodrigoBalestrim/vagas-cv">Repositorio</a></p>
 
 <h3>🌌 Portfolio 3D</h3>
 <p>Portfolio responsivo com experiencias visuais em 3D.</p>
-<p><img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> <code>Next.js</code> <code>React</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Tailwind CSS</code></p>
+<p><img src="https://skillicons.dev/icons?i=nextjs" width="24" alt="Next.js" /> <code>Next.js</code> <code>React</code> <code>Three.js</code> <code>React Three Fiber</code> <code>Tailwind CSS</code></p>
 <p><a href="https://portfolio-3d-eight-nu.vercel.app">Ver projeto</a> · <a href="https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim">Repositorio</a></p>
 
 </div>
