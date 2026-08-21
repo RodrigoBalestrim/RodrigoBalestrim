@@ -1,6 +1,6 @@
 <div align="center">
 
-# Rodrigo Washington Balestrim
+# <span style="font-size: 2em;">Rodrigo Washington Balestrim</span>
 
 ### Desenvolvedor Front-End Júnior
 
