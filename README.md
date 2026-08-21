@@ -2,7 +2,7 @@
 
 <h1>Rodrigo Washington Balestrim</h1>
 <p><strong>Desenvolvedor Front-End Júnior</strong></p>
-<p>React · <img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> Next.js · React Native · TypeScript</p>
+<p>React · Next.js · React Native · TypeScript</p>
 
 <a href="https://wa.me/5544997075042?text=Ola%20Rodrigo%2C%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.linkedin.com/in/rodrigo-balestrim-9a68b3212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
