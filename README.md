@@ -22,13 +22,44 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 
 ## Tecnologias
 
-| <img src="https://raw.githubusercontent.com/RodrigoBalestrim/RodrigoBalestrim/main/assets/front-end.png" width="18" alt="Front-end" /> Front-end | 📱 Mobile | 🗄️ Back-end | 🛠️ Ferramentas |
-|---|---|---|---|
-| <img src="https://skillicons.dev/icons?i=react" width="18" alt="React" /> React | <img src="https://skillicons.dev/icons?i=react" width="18" alt="React Native" /> React Native | <img src="https://skillicons.dev/icons?i=supabase" width="18" alt="Supabase" /> Supabase | <img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /> Git |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> Next.js | <img src="https://skillicons.dev/icons?i=expo" width="18" alt="Expo" /> Expo | <img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /> Firebase | <img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /> GitHub |
-| <img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript" /> TypeScript | <img src="https://skillicons.dev/icons?i=expo-router" width="18" alt="Expo Router" /> Expo Router | PostgreSQL | GitHub Actions |
-| <img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript" /> JavaScript | AsyncStorage | <img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js" /> Node.js | <img src="https://skillicons.dev/icons?i=vercel" width="18" alt="Vercel" /> Vercel |
-| <img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML" /> HTML<br><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS" /> CSS | <img src="https://skillicons.dev/icons?i=android" width="18" alt="Push Notifications" /> Push Notifications | <img src="https://skillicons.dev/icons?i=postman" width="18" alt="APIs REST" /> APIs REST | <img src="https://skillicons.dev/icons?i=tailwind" width="18" alt="Tailwind CSS" /> Tailwind CSS |
+<table>
+  <tr>
+    <th align="center">🖥️ Front-end</th>
+    <th align="center">📱 Mobile</th>
+    <th align="center">🗄️ Back-end</th>
+    <th align="center">🛠️ Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="18" alt="React" /><br />React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="18" alt="React Native" /><br />React Native</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="18" alt="Supabase" /><br />Supabase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="18" alt="Git" /><br />Git</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /><br />Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=expo" width="18" alt="Expo" /><br />Expo</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="18" alt="Firebase" /><br />Firebase</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="18" alt="GitHub" /><br />GitHub</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="18" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=expo-router" width="18" alt="Expo Router" /><br />Expo Router</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="18" alt="PostgreSQL" /><br />PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="18" alt="GitHub Actions" /><br />GitHub Actions</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="18" alt="JavaScript" /><br />JavaScript</td>
+    <td align="center">📦<br />AsyncStorage</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="18" alt="Node.js" /><br />Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="18" alt="Vercel" /><br />Vercel</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="18" alt="HTML" /><br />HTML<br /><img src="https://skillicons.dev/icons?i=css" width="18" alt="CSS" /><br />CSS</td>
+    <td align="center">🔔<br />Push Notifications</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="18" alt="APIs REST" /><br />APIs REST</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="18" alt="Tailwind CSS" /><br />Tailwind CSS</td>
+  </tr>
+</table>
 ## Projetos
 
 <div align="center">
