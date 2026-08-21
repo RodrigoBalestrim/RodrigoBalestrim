@@ -19,37 +19,47 @@ Busco oportunidade como Desenvolvedor Front-End Júnior, Desenvolvedor React, De
 
 ## Stack técnica
 
-- Front-end: React, Next.js, TypeScript, JavaScript, HTML5, CSS3
-- Mobile: React Native, Expo, Expo Router, AsyncStorage
-- UI: Tailwind CSS, Bootstrap, Framer Motion, Three.js, React Three Fiber, Swiper
-- Backend e dados: Supabase, PostgreSQL, Firebase Authentication, Firestore, Firebase Admin SDK, APIs REST, Node.js
-- Segurança: autenticação, autorização, Row Level Security, regras owner-only, validação server-side
-- Qualidade e entrega: Git, GitHub Actions, CI/CD, Vercel, Jest, React Testing Library, Playwright, ESLint, Prettier
-- IA: Gemini, OpenAI, Claude, engenharia de prompts
+<div align="center">
+
+| Front-end | Mobile | Backend e dados | Qualidade e entrega |
+|---|---|---|---|
+| React · Next.js | React Native · Expo | Supabase · Firebase | Git · GitHub |
+| TypeScript · JavaScript | Expo Router | PostgreSQL · Node.js | GitHub Actions · CI/CD |
+| HTML5 · CSS3 | AsyncStorage | APIs REST · Firestore | Vercel · Jest |
+| Tailwind CSS · Three.js | Push Notifications | Firebase Admin SDK | Playwright · ESLint |
+
+</div>
+
+**Segurança:** autenticação · autorização · Row Level Security · regras owner-only · validação server-side  
+**IA:** Gemini · OpenAI · Claude · engenharia de prompts
 
 ## Projetos
+
+<div align="center">
 
 ### Vagas CV — Currículo ATS com IA
 
 Plataforma web que busca e ranqueia vagas, extrai keywords e gera currículos ATS em HTML e PDF. Inclui autenticação multiusuário, Firestore com isolamento por usuário, importação de PDF/DOCX/TXT e deploy contínuo na Vercel.
 
-- Repositório: https://github.com/RodrigoBalestrim/vagas-cv
-- Produção: https://vagas-cv.vercel.app
+[Repositório](https://github.com/RodrigoBalestrim/vagas-cv) · [Produção](https://vagas-cv.vercel.app)
+
+---
 
 ### Prazo Certo
 
 Aplicativo Android e Web para gerenciamento de validade de produtos, com React Native, Expo, Supabase/PostgreSQL, permissões por papel, IA generativa, notificações push, suporte offline e CI/CD para APK.
 
-- Repositório: https://github.com/RodrigoBalestrim/prazo-certo-app
-- Vercel: https://vercel.com/rodrigo-balestrim/prazo-certo-app
+[Repositório](https://github.com/RodrigoBalestrim/prazo-certo-app) · [Vercel](https://vercel.com/rodrigo-balestrim/prazo-certo-app)
+
+---
 
 ### Portfólio 3D Interativo
 
 Portfólio responsivo desenvolvido com Next.js, React, Three.js, React Three Fiber, Tailwind CSS, Framer Motion e Swiper.
 
-- Repositório: https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim
-- Vercel: https://vercel.com/rodrigo-balestrim/portfolio-rodrigo-balestrim
+[Repositório](https://github.com/RodrigoBalestrim/portfolio-rodrigo-balestrim) · [Vercel](https://vercel.com/rodrigo-balestrim/portfolio-rodrigo-balestrim)
 
+</div>
 ## Formação
 
 - Análise de Dados e Desenvolvimento — UniCesumar
