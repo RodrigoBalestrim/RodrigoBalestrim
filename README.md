@@ -102,3 +102,6 @@ Aberto a oportunidades em Front-end, Mobile e Full Stack.
 
 
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:7C3AED,100:050816&height=120&section=footer" width="100%" alt="Rodapé decorativo" />
+</div>
