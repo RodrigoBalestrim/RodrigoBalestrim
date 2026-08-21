@@ -25,7 +25,9 @@ Busco oportunidades como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Re
 ## Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,reactnative,expo,supabase,firebase,nodejs,git,github,vercel&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, React Native, Expo, Supabase, Firebase, Node.js, Git, GitHub e Vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=6" alt="React, Next.js, TypeScript, JavaScript, HTML e CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,reactnative,expo,supabase,firebase,nodejs,git,github,vercel&perline=9" alt="Tailwind, React Native, Expo, Supabase, Firebase, Node.js, Git, GitHub e Vercel" />
 </div>
 
 ## Projetos
