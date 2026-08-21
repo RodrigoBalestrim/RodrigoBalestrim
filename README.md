@@ -19,6 +19,9 @@ Busco oportunidade como **Desenvolvedor Front-End Júnior**, **Desenvolvedor Rea
 📍 Mandaguaçu, Paraná, Brasil &nbsp; · &nbsp; 🌐 Remoto, presencial ou híbrido
 
 ## Stack principal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,reactnative,expo,supabase,firebase,nodejs,git,github,vercel" alt="Tecnologias: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind, React Native, Expo, Supabase, Firebase, Node.js, Git, GitHub e Vercel" />
+</p>
 
 <div align="center">
 
