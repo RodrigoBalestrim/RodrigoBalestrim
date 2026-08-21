@@ -25,7 +25,7 @@ Busco oportunidades como **Desenvolvedor Front-End Junior**, **Desenvolvedor Rea
 | 🎨 Front-end | 📱 Mobile | 🗄️ Back-end | 🛠️ Ferramentas |
 |---|---|---|---|
 | React | React Native | Supabase | Git |
-| Next.js | Expo | Firebase | GitHub |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="18" alt="Next.js" /> Next.js | Expo | Firebase | GitHub |
 | TypeScript | Expo Router | PostgreSQL | GitHub Actions |
 | JavaScript | AsyncStorage | Node.js | Vercel |
 | HTML e CSS | Push Notifications | APIs REST | Tailwind CSS |
